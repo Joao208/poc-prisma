@@ -8,7 +8,7 @@ yarn
 yarn start
 ```
 
-If you change them schema (`prisma/schema.prisma`) run
+If you change the schema (`prisma/schema.prisma`) run
 
 ```
 npx prisma generate
