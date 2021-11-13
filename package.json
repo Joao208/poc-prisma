@@ -1,0 +1,14 @@
+{
+  "name": "bk_prisma",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "@prisma/client": "^3.4.2",
+    "express": "^4.17.1",
+    "prisma": "^3.4.2"
+  }
+}
